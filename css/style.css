@@ -1,0 +1,45 @@
+html {
+background-image: url("../img/pozadi.png");
+}
+table {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td {
+    border: 2px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+}
+.flag {
+    height: 20px;
+}
+td, th {
+    padding: 5px;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+.bold {
+    font-weight: bold;
+}
+.gold {
+    background-color: gold;
+}
+.silver {
+    background-color: silver;
+}
+.bronze {
+    background-color: #cd7f32;
+}
+
+h1{
+    text-align: center;
+}
+
+h1,h2,h3,p,th,caption{
+    color: white;
+    text-align: center;
+}
